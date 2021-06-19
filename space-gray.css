@@ -12,7 +12,7 @@
 /*			      https://github.com/gilbN/theme.park			 */
 
 /* GRAFANA SPACE GRAY THEME */
-@import url(https://github.com/N3v3R3nD/Grafanatheme/blob/a8691a01c43ee990f3fe3d923205dde8d1517ba9/grafana-base.css);
+@import url(https://raw.githubusercontent.com/N3v3R3nD/Grafanatheme/main/grafana-base.css);
 :root {
   --main-bg-color:  radial-gradient( ellipse at center,  rgba(87,108,117,1) 0%, rgba(37,50,55,1) 100.2% ) center center/cover no-repeat fixed;
   --modal-bg-color: radial-gradient( ellipse at top,  rgba(87,108,117,1) 0%, rgba(37,50,55,1) 100.2% ) center center/cover no-repeat fixed; 
